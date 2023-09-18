@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1695035903 source:c:\users\user\documents\yara\yara\contactbook_aplication\src\contact.cpp
+	"phonenumber.h"
+	"contact.h"
+
+1695035903 c:\users\user\documents\yara\yara\contactbook_aplication\include\phonenumber.h
+	<string>
+	<iostream>
+
+1695035903 c:\users\user\documents\yara\yara\contactbook_aplication\include\contact.h
+	<ctime>
+	<string>
+	<iostream>
+	"phonenumber.h"
+
+1695035903 source:c:\users\user\documents\yara\yara\contactbook_aplication\src\contactbook.cpp
+	"contactbook.h"
+
+1695035903 c:\users\user\documents\yara\yara\contactbook_aplication\include\contactbook.h
+	"contact.h"
+	<string>
+	<iostream>
+
+1695035927 source:c:\users\user\documents\yara\yara\contactbook_aplication\src\phonenumber.cpp
+	"phonenumber.h"
+
+1695035984 source:c:\users\user\documents\yara\yara\contactbook_aplication\main.cpp
+	<iostream>
+	"contactbook.h"
+
